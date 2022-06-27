@@ -1,8 +1,9 @@
 import express from "express";
 import config from "config";
-import Logger from '../config/logger'
+import Logger from '../config/logger';
 
-import router from './routes'
+import apiRouter from './routes/api';
+import defaultRouter from './routes/default';
 import { morganMiddleware } from "./middlewares/morgan";
 import bodyParser from "body-parser";
 
@@ -16,7 +17,8 @@ app.use(express.json());
 app.use(morganMiddleware);
 
 //Routes
-app.use('/api', router);
+app.use('/', defaultRouter)
+app.use('/api', apiRouter);
 
 
 const PORT = config.get<number>('port');

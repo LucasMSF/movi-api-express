@@ -1,8 +1,7 @@
 import { Router, Request, Response } from "express";
-import Logger from '../config/logger'
-import { allMovies, createMovie } from "./controllers/moviesController";
-import { createValidator } from "./middlewares/moviesValidationMiddleware";
-import { validate } from "./middlewares/validationMiddleware";
+import { allMovies, createMovie, findMovieById } from "../controllers/moviesController";
+import { createValidator } from "../middlewares/moviesValidationMiddleware";
+import { validate } from "../middlewares/validationMiddleware";
 
 const router = Router();
 
@@ -11,6 +10,8 @@ router.get('/', (req: Request, res: Response) => {
 });
 
 router.get('/movies', allMovies);
+
+router.get('/movie/:id', findMovieById);
 
 router.post('/movie', createValidator(), validate, createMovie);
 
