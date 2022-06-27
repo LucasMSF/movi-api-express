@@ -1,4 +1,4 @@
-import express, { Request, Response } from "express";
+import express from "express";
 import config from "config";
 import Logger from '../config/logger'
 
@@ -10,7 +10,6 @@ const app = express();
 
 //body-parser middleware
 app.use(bodyParser.urlencoded({ extended: true }));
-
 //JSON middleware
 app.use(express.json());
 //Morgan middlware
