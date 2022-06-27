@@ -35,7 +35,8 @@ const format = Winston.format.combine(
 const transports = [
     new Winston.transports.Console(),
     new Winston.transports.File({
-        filename: 'logs/errors.log'
+        filename: 'logs/errors.log',
+        level: 'error'
     }),
     new Winston.transports.File({
         filename: 'logs/all.log'
