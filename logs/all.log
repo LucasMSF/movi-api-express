@@ -12,3 +12,206 @@
 [35m[39m
 2022-06-26 15:35:01 - [35mhttp[39m - [35mGET /api/users 304 - - 25.715 ms[39m
 [35m[39m
+2022-06-26 20:41:11 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 20:41:51 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 20:41:51 - [35mhttp[39m - [35mGET /api/users 200 4 - 50.038 ms[39m
+[35m[39m
+2022-06-26 20:41:52 - [35mhttp[39m - [35mGET /favicon.ico 404 150 - 1.392 ms[39m
+[35m[39m
+2022-06-26 20:41:53 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 20:42:09 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 20:45:12 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 20:52:33 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:00:59 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:02:08 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:02:19 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:02:32 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:02:38 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:02:42 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:02:49 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:04:00 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:04:16 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:05:03 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:05:06 - [35mhttp[39m - [35mGET /api/users - - - - ms[39m
+[35m[39m
+2022-06-26 21:06:15 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:06:27 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:06:53 - [35mhttp[39m - [35mGET /api/users - - - - ms[39m
+[35m[39m
+2022-06-26 21:06:59 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:07:15 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:07:29 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:07:38 - [35mhttp[39m - [35mGET / 404 139 - 2.691 ms[39m
+[35m[39m
+2022-06-26 21:07:49 - [35mhttp[39m - [35mGET /api/movies 404 149 - 0.652 ms[39m
+[35m[39m
+2022-06-26 21:07:56 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:08:35 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:08:58 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:08:59 - [35mhttp[39m - [35mGET /api/movies 200 2 - 3.055 ms[39m
+[35m[39m
+2022-06-26 21:09:02 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.964 ms[39m
+[35m[39m
+2022-06-26 21:12:12 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.828 ms[39m
+[35m[39m
+2022-06-26 21:12:14 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.459 ms[39m
+[35m[39m
+2022-06-26 21:12:14 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.661 ms[39m
+[35m[39m
+2022-06-26 21:12:14 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.528 ms[39m
+[35m[39m
+2022-06-26 21:12:46 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:12:48 - [35mhttp[39m - [35mGET /api/movies 304 - - 2.877 ms[39m
+[35m[39m
+2022-06-26 21:12:48 - [35mhttp[39m - [35mGET /api/movies 304 - - 1.041 ms[39m
+[35m[39m
+2022-06-26 21:12:49 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.413 ms[39m
+[35m[39m
+2022-06-26 21:12:49 - [35mhttp[39m - [35mGET /api/movies 304 - - 0.503 ms[39m
+[35m[39m
+2022-06-26 21:13:21 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:13:23 - [35mhttp[39m - [35mGET /api/movies 200 488 - 55.146 ms[39m
+[35m[39m
+2022-06-26 21:15:56 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:18:49 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:18:51 - [35mhttp[39m - [35mGET /api/movies 304 - - 59.462 ms[39m
+[35m[39m
+2022-06-26 21:19:09 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:19:14 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:19:15 - [35mhttp[39m - [35mGET /api/movies 304 - - 64.387 ms[39m
+[35m[39m
+2022-06-26 21:20:45 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:21:32 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:23:40 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:23:43 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.028 ms[39m
+[35m[39m
+2022-06-26 21:26:57 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:26:59 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.435 ms[39m
+[35m[39m
+2022-06-26 21:27:42 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:27:44 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.116 ms[39m
+[35m[39m
+2022-06-26 21:28:37 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:28:41 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.003 ms[39m
+[35m[39m
+2022-06-26 21:28:46 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 1.208 ms[39m
+[35m[39m
+2022-06-26 21:28:57 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:29:01 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.099 ms[39m
+[35m[39m
+2022-06-26 21:29:13 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:29:15 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.530 ms[39m
+[35m[39m
+2022-06-26 21:29:24 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:29:41 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:29:51 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:29:52 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 2.163 ms[39m
+[35m[39m
+2022-06-26 21:30:01 - [35mhttp[39m - [35mPOST /api/movie 200 14 - 0.644 ms[39m
+[35m[39m
+2022-06-26 21:30:24 - [35mhttp[39m - [35mPOST /api/movie 200 21 - 0.473 ms[39m
+[35m[39m
+2022-06-26 21:30:31 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:30:43 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:30:45 - [35mhttp[39m - [35mPOST /api/movie 200 21 - 1.984 ms[39m
+[35m[39m
+2022-06-26 21:30:48 - [35mhttp[39m - [35mPOST /api/movie 200 2 - 0.546 ms[39m
+[35m[39m
+2022-06-26 21:30:51 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:30:55 - [35mhttp[39m - [35mPOST /api/movie 200 21 - 2.441 ms[39m
+[35m[39m
+2022-06-26 21:31:41 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:31:45 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:31:48 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:33:11 - [35mhttp[39m - [35mGET //api/movies 404 150 - 2.145 ms[39m
+[35m[39m
+2022-06-26 21:33:38 - [35mhttp[39m - [35mGET /api/movies 304 - - 53.950 ms[39m
+[35m[39m
+2022-06-26 21:33:40 - [35mhttp[39m - [35mGET /api/movies 304 - - 3.715 ms[39m
+[35m[39m
+2022-06-26 21:33:40 - [35mhttp[39m - [35mGET /api/movies 304 - - 2.799 ms[39m
+[35m[39m
+2022-06-26 21:33:40 - [35mhttp[39m - [35mGET /api/movies 304 - - 2.469 ms[39m
+[35m[39m
+2022-06-26 21:33:40 - [35mhttp[39m - [35mGET /api/movies 304 - - 2.192 ms[39m
+[35m[39m
+2022-06-26 21:34:02 - [35mhttp[39m - [35mGET /%0A%0Aapi/movies 404 155 - 0.308 ms[39m
+[35m[39m
+2022-06-26 21:34:09 - [35mhttp[39m - [35mGET /%0A%0Aapi/movies 404 155 - 0.597 ms[39m
+[35m[39m
+2022-06-26 21:34:14 - [35mhttp[39m - [35mGET /%0A%0A/api/movies 404 156 - 0.376 ms[39m
+[35m[39m
+2022-06-26 21:34:59 - [35mhttp[39m - [35mGET /api/movies 200 488 - 3.527 ms[39m
+[35m[39m
+2022-06-26 21:35:38 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-06-26 21:35:50 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:35:58 - [35mhttp[39m - [35mPOST /api/movie 200 21 - 2.657 ms[39m
+[35m[39m
+2022-06-26 21:37:29 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:38:41 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:40:00 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:40:24 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:40:51 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:41:08 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:41:30 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:41:39 - [35mhttp[39m - [35mGET /api/movies - - - - ms[39m
+[35m[39m
+2022-06-26 21:41:58 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:42:32 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:42:35 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:42:39 - [35mhttp[39m - [35mGET /api/movies 200 2 - 51.497 ms[39m
+[35m[39m
+2022-06-26 21:42:59 - [35mhttp[39m - [35mGET /api/movies 200 2 - 5.732 ms[39m
+[35m[39m
+2022-06-26 21:43:56 - [35mhttp[39m - [35mPOST /api/movie 200 557 - 13.166 ms[39m
+[35m[39m
+2022-06-26 21:44:05 - [35mhttp[39m - [35mPOST /api/movie 200 563 - 5.218 ms[39m
+[35m[39m
+2022-06-26 21:44:32 - [35mhttp[39m - [35mGET /api/movies 200 577 - 5.487 ms[39m
+[35m[39m
+2022-06-26 21:45:02 - [35mhttp[39m - [35mPOST /api/movie 200 563 - 7.455 ms[39m
+[35m[39m
+2022-06-26 21:45:52 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:45:55 - [35mhttp[39m - [35mPOST /api/movie 200 576 - 59.016 ms[39m
+[35m[39m
+2022-06-26 21:46:03 - [35mhttp[39m - [35mPOST /api/movie 200 578 - 6.274 ms[39m
+[35m[39m
+2022-06-26 21:46:47 - [35mhttp[39m - [35mPOST /api/movie 200 578 - 6.405 ms[39m
+[35m[39m
+2022-06-26 21:47:37 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:47:40 - [35mhttp[39m - [35mPOST /api/movie 200 606 - 58.522 ms[39m
+[35m[39m
+2022-06-26 21:48:39 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:48:46 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:48:53 - [35mhttp[39m - [35mPOST /api/movie 200 606 - 59.122 ms[39m
+[35m[39m
+2022-06-26 21:48:59 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:49:01 - [35mhttp[39m - [35mPOST /api/movie 200 27 - 2.294 ms[39m
+[35m[39m
+2022-06-26 21:49:07 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:49:58 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:50:05 - [35mhttp[39m - [35mGET /api/movies 200 1726 - 52.938 ms[39m
+[35m[39m
+2022-06-26 21:50:17 - [35mhttp[39m - [35mPOST /api/movie 200 606 - 12.802 ms[39m
+[35m[39m
+2022-06-26 21:50:22 - [35mhttp[39m - [35mGET /api/movies 200 576 - 2.538 ms[39m
+[35m[39m
+2022-06-26 21:50:28 - [35mhttp[39m - [35mGET / 404 139 - 2.058 ms[39m
+[35m[39m
+2022-06-26 21:50:33 - [35mhttp[39m - [35mGET /api/movies 200 576 - 5.027 ms[39m
+[35m[39m
+2022-06-26 21:53:27 - [35mhttp[39m - [35mPOST /api/movie 200 547 - 6.156 ms[39m
+[35m[39m
+2022-06-26 21:53:31 - [35mhttp[39m - [35mGET /api/movies 200 1092 - 2.088 ms[39m
+[35m[39m
+2022-06-26 21:54:28 - [35mhttp[39m - [35mGET /api/movies 200 2 - 4.051 ms[39m
+[35m[39m
+2022-06-26 21:54:32 - [35mhttp[39m - [35mPOST /api/movie 200 547 - 3.797 ms[39m
+[35m[39m
+2022-06-26 21:54:40 - [35mhttp[39m - [35mPOST /api/movie 200 607 - 3.595 ms[39m
+[35m[39m
+2022-06-26 21:55:01 - [35mhttp[39m - [35mGET /api/movies 200 1093 - 3.278 ms[39m
+[35m[39m
+2022-06-26 21:55:45 - [32minfo[39m - [32mApp running on port: 8000[39m
+2022-06-26 21:55:55 - [32minfo[39m - [32mApp running on port: 8000[39m

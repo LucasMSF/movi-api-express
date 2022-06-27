@@ -1,21 +1,20 @@
 import dotenv from 'dotenv';
-import mysql from 'mysql2';
+import { Sequelize } from 'sequelize'
 
 const env = dotenv.config().parsed;
 
-const connection: mysql.Pool = mysql.createPool({
+export const sequelize = new Sequelize(env!.DB_DATA, env!.DB_USER, '', {
     host: env!.DB_HOST,
-    user: env!.DB_USER,
-    database: env!.DB_DATA,
-    waitForConnections: true,
-    connectionLimit: 50,
-    queueLimit: 0
+    dialect: 'mysql'
 });
 
-const getConnection = (): mysql.Pool => {
-    return connection;
-}
+//Connection test
+// try {
+//     await sequelize.authenticate();
+//     console.log('Connection has been established successfully.');
+//   } catch (error) {
+//     console.error('Unable to connect to the database:', error);
+//   }
 
-export default {
-    getConnection
-}
+
+
