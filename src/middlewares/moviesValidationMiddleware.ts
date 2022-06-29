@@ -6,7 +6,11 @@ export const createValidator = () => {
         body('rating').isNumeric(),
         body('description').isString(),
         body('stars').isNumeric(),
-        body('poster').isString(),
+        body('poster').isString()
 
     ]
+}
+
+export const removeValidator = () => {
+    return [body('id').isInt()]
 }
