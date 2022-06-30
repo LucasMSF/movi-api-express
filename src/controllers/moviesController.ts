@@ -40,7 +40,7 @@ export const removeMovie = async (req: Request, res: Response) => {
 
 export const findMovieById = async (req: Request, res: Response) => {
     try {
-        const movie = await Movie.findByPk(req.body.id)
+        const movie = await Movie.findByPk(req.params.id)
         if (movie) res.json(movie)
         else res.status(404).json({ error: true, message: 'Movie not found' });
     } catch (error) {
